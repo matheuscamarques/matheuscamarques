@@ -10,5 +10,8 @@ Sou desenvolvedor backend,frontend e mobile e estudande de Engenharia da Computa
 ## Meus Projetos 
 ### Colisões Elásticas <a href="https://matheuscamarques.github.io/ColideBall/">Deploy</a> | <a href="https://github.com/matheuscamarques/ColideBall">Repositório</a>
   ![image](https://user-images.githubusercontent.com/37029621/119061720-6e89c180-b9ab-11eb-8cf4-26e444b27da0.png)
+### AStar Pathfinding <a href="https://matheuscamarques.github.io/pathfinding/">Deploy</a> | <a href="https://github.com/matheuscamarques/pathfinding">Repositório</a>  
+  ![image](https://user-images.githubusercontent.com/37029621/119062118-51092780-b9ac-11eb-9ad1-12ae89cafc3a.png)
+
  
 
