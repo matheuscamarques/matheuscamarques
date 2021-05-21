@@ -19,6 +19,10 @@ Sou desenvolvedor backend,frontend e mobile e estudande de Engenharia da Computa
   
 ### Jogo Mundo Aberto RPG <a href="https://matheuscamarques.github.io/mundoabertorpg/">Deploy</a> | <a href="https://github.com/matheuscamarques/mundoabertocode">Repositório</a>  
   ![image](https://user-images.githubusercontent.com/37029621/119062789-f53f9e00-b9ad-11eb-9269-ea75fd8e7f55.png)
+  
+### Simulador COVID-19 <a href="https://matheuscamarques.github.io/COVID-19/">Deploy</a> | <a href="https://github.com/matheuscamarques/COVID-19">Repositório</a>  
+![image](https://user-images.githubusercontent.com/37029621/119062987-68e1ab00-b9ae-11eb-8918-56f24196fa60.png)
+
 
 
 
