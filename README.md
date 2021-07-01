@@ -24,8 +24,9 @@ Sou desenvolvedor backend,frontend e mobile e estudande de Engenharia da Computa
 ![image](https://user-images.githubusercontent.com/37029621/119062987-68e1ab00-b9ae-11eb-8918-56f24196fa60.png)
 ![image](https://user-images.githubusercontent.com/37029621/119063139-be1dbc80-b9ae-11eb-81a3-92f885b21b76.png)
 
-
+<html>
 <script src="//code-eu1.jivosite.com/widget/7UMXjyfWR2" async></script>
+ </html>
 
 
 
