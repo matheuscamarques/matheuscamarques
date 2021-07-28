@@ -8,9 +8,9 @@
 Sou desenvolvedor backend,frontend e mobile e estudande de Engenharia da Computação, hoje tenho especialidade em trabalhar com WebSockets e manipulação do canvas html.
 
 ## Dados Github
-<img src="https://github-readme-stats.vercel.app/api?username=matheuscamarques&show_icons=true&count_private=true&theme=chartreuse-dark" alt="Matheus de Camargo Marques's most used languages" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscamarques&layout=compact&theme=chartreuse-dark" alt="Matheus de Camargo Marques's most used languages" />
- 
+<img src="https://github-readme-stats.vercel.app/api?username=matheuscamarques&show_icons=true&count_private=true&theme=chartreuse-dark" alt="Matheus de Camargo Marques most used languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscamarques&layout=compact&theme=chartreuse-dark" alt="Matheus de Camargo Marques most used languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathuescamarques&theme=chartreuse-dark" alt="Matheus de Camargo Marques streak stats"/>
 ## Meus Projetos 
 ### Colisões Elásticas <a href="https://matheuscamarques.github.io/ColideBall/">Deploy</a> | <a href="https://github.com/matheuscamarques/ColideBall">Repositório</a>
   ![image](https://user-images.githubusercontent.com/37029621/119061720-6e89c180-b9ab-11eb-8cf4-26e444b27da0.png)
