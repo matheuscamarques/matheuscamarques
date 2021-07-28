@@ -13,7 +13,7 @@ Sou desenvolvedor backend,frontend e mobile e estudande de Engenharia da Computa
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheuscamarques&theme=chartreuse-dark" alt="Matheus de Camargo Marques streak stats"/>
 </div> 
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscamarques&layout=compact&theme=chartreuse-dark" alt="Matheus de Camargo Marques most used languages" />
+<img style="width=100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscamarques&layout=compact&theme=chartreuse-dark" alt="Matheus de Camargo Marques most used languages" />
 ## Meus Projetos 
 
 ### Colisões Elásticas <a href="https://matheuscamarques.github.io/ColideBall/">Deploy</a> | <a href="https://github.com/matheuscamarques/ColideBall">Repositório</a>
