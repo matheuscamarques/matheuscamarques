@@ -7,6 +7,56 @@
 ### Sobre mim
 Sou desenvolvedor backend,frontend e mobile e estudande de Engenharia da Computação, hoje tenho especialidade em trabalhar com WebSockets e manipulação do canvas html.
 
+### Meu Road-Map de Estudos 
+
+#### Estudos Especificos
+- [x] (UML e notações UML) 
+- [x] (Orientação a Objetos) 
+- [x] (Orientação a Objetos -> Interfaces , Abstrações , Generalizações)
+- [x] (Designs Patterns)
+- [ ] (Abstract Factory) 
+- [ ] (Adapter)
+- [ ] (Builder)
+- [ ] (Bridge)
+- [x] (Factory Method) 
+- [ ] (Composite)
+- [ ] (Prototype)
+- [ ] (Decorator)
+- [x] (Singleton) 
+- [ ] (Facade)
+- [ ] (Flyweight)
+- [ ] (Proxy)
+- [ ] (Chain of Responsibility)
+- [ ] (Command)
+- [ ] (Iterator)
+- [ ] (Mediator)
+- [ ] (Memento)
+- [x] (Observer)
+- [ ] (State)
+- [ ] (Strategy)
+- [x] (Template Method)
+- [ ] (Visitor)
+
+#### Estudos Geral 
+- [x] (Controllers)
+- [x] (DTOS)
+- [x] (Models)
+- [x] (Repositories)
+- [x] (Services)
+- [x] (UUID)
+- [x] (Escalonamento vertical/horizonatal)
+
+#### Arquiteturas ver junto a diagramas UML
+- [ ] (Layers)
+- [x] (Client-server)
+- [x] (Model-view-controller)
+- [x] (Microservices)
+- [ ] (Pipes-and-filters)
+- [ ] (Peer-to-Peer)
+- [ ] (Service-Oriented Architecture)
+- [ ] (Publish-Subscribe)
+
+
 ## Dados Github
 <div style="display:flex">
 <img src="https://github-readme-stats.vercel.app/api?username=matheuscamarques&show_icons=true&count_private=true&theme=chartreuse-dark" alt="Matheus de Camargo Marques most used languages" />
