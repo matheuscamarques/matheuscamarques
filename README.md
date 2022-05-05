@@ -4,9 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-de-camago-marques/)](https://www.linkedin.com/in/matheus-de-camago-marques/)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCHEerhh8fFTNHhXtRCPbDgA)](https://www.youtube.com/channel/UCHEerhh8fFTNHhXtRCPbDgA)
 
-### Sobre mim
-Sou desenvolvedor backend,frontend e mobile e estudande de Engenharia da Computação, hoje tenho especialidade em trabalhar com WebSockets e manipulação do canvas html.
-
 ### Estudos Atuais
  - Linguagem funcional e programação em Erlang
 
