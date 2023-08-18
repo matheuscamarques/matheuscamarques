@@ -1,5 +1,6 @@
 # Olá, eu sou o @matheuscamarques! 👋
 
+Meu nome é Matheus de Camargo Marques. 
 Sou um engenheiro de software com formação técnica em Informática e Logística, atualmente cursando Engenharia da Computação. Minhas paixões são Engenharia de Software e Padrões de Projetos.
 
 ## 💻 Tecnologias e Experiência
