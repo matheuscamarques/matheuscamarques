@@ -1,29 +1,23 @@
-# Olá, eu sou o @matheuscamarques! 👋
+Hello, I'm @matheuscamarques! 👋
+My name is Matheus de Camargo Marques.
+I'm a software engineer with a technical background in Computer Science and Logistics, currently pursuing a degree in Computer Engineering. My passions are Software Engineering and Design Patterns.
 
-Meu nome é Matheus de Camargo Marques. 
-Sou um engenheiro de software com formação técnica em Informática e Logística, atualmente cursando Engenharia da Computação. Minhas paixões são Engenharia de Software e Padrões de Projetos.
+💻 Technologies and Experience
+I specialize in Elixir and Erlang, with experience in developing robust and scalable applications using the Phoenix Elixir framework. My journey in web development began in 2016, where I delved into PHP and Vanilla Javascript. Over the years, I've worked with various renowned frameworks, including Laravel, CodeIgniter, Angular, Bootstrap, and jQuery. Additionally, I'm skilled in superset languages like TypeScript and Dart, enabling me to create modern and efficient web applications.
 
-## 💻 Tecnologias e Experiência
+Currently, I'm focused on highly available and fault-tolerant Microservices projects. My skills extend to languages like Java, GoLang, and Erlang, allowing me to create high-performance distributed systems. I also have a keen interest in cross-platform development and have been closely following the advancements and trends of Flutter in this field.
 
-Tenho especialização em Elixir e Erlang, com experiência no desenvolvimento de aplicações robustas e escaláveis utilizando o framework Phoenix Elixir. Minha jornada no desenvolvimento web começou em 2016, quando me aprofundei nas linguagens PHP e Javascript (Vanilla). Ao longo dos anos, trabalhei com diversos frameworks renomados, incluindo Laravel, CodeIgniter, Angular, Bootstrap e jQuery. Além disso, sou experiente em superconjuntos como TypeScript e Dart, o que me possibilita criar aplicativos web modernos e eficientes.
+🌐 Web3 and Smart Contracts
+Beyond my practical work, I'm an enthusiast of Web3 technology and Smart Contracts. I'm constantly updating myself on emerging technologies in this exciting field, where I see immense potential to revolutionize digital interactions and trustworthy transactions on the internet.
 
-Atualmente, estou focado em projetos de Microserviços altamente disponíveis e tolerantes a falhas. Minhas habilidades se estendem para linguagens como Java, GoLang e Erlang, permitindo-me criar sistemas distribuídos de alto desempenho. Tenho também um grande interesse no desenvolvimento multiplataforma e tenho acompanhado de perto os avanços e tendências do Flutter nessa área.
+👨‍💻 Ready for new challenges
+My combination of technical education, web development experience, specialization in Elixir and Erlang, familiarity with various frameworks, and my interest in emerging technologies make me a versatile software engineer ready to tackle complex challenges.
 
-## 🌐 Web3 e Smart Contracts
+I'm always open to job opportunities and collaborations, so please feel free to get in touch with me to discuss projects or partnerships.
 
-Além do meu trabalho prático, sou um entusiasta da tecnologia Web3 e Smart Contracts. Sempre estou me atualizando sobre as tecnologias emergentes nesse campo empolgante, onde vejo um grande potencial para revolucionar as interações digitais e as transações confiáveis ​​na internet.
-
-## 👨‍💻 Pronto para novos desafios
-
-Minha combinação de formação técnica, experiência em desenvolvimento web, especialização em Elixir e Erlang, conhecimento de diversos frameworks e meu interesse em tecnologias emergentes, me tornam um engenheiro de software versátil e pronto para enfrentar desafios complexos.
-
-Estou sempre aberto a oportunidades de trabalho e colaborações, então sinta-se à vontade para entrar em contato comigo para discutirmos projetos ou parcerias.
-
-## 📫 Entre em contato
-
-- GitHub: [@matheuscamarques](https://github.com/matheuscamarques)
-- LinkedIn: [@matheuscamarques](https://www.linkedin.com/in/matheuscamarques/)
-- Email: [matheuscamarques@gmail.com](mailto:matheuscamarques@gmail.com)
-- Medium: [@matheuscamarques](mailto:seuemail@example.com)
-
-Vamos juntos construir um futuro digital incrível! 😄
+📫 Get in Touch
+GitHub: @matheuscamarques
+LinkedIn: @matheuscamarques
+Email: matheuscamarques@gmail.com
+Medium: @matheuscamarques
+Let's together build an amazing digital future! 😄
