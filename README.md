@@ -2,6 +2,8 @@ Hello, I'm @matheuscamarques! 👋
 My name is Matheus de Camargo Marques.
 I'm a software engineer with a technical background in Computer Science and Logistics, currently pursuing a degree in Computer Engineering. My passions are Software Engineering and Design Patterns.
 
+![Matheus Camargo Marques stats](https://github-readme-stats.vercel.app/api?username=matheuscamarques&theme=shadow_red&show_icons=true)
+
 # Personal Projects and In-Progress POCs
 
 Certainly, here's the information with the addition of a third project:
