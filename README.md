@@ -4,6 +4,11 @@ I'm a software engineer with a technical background in Computer Science and Logi
 
 ![Matheus Camargo Marques stats](https://github-readme-stats.vercel.app/api?username=matheuscamarques&theme=shadow_red&show_icons=true)
 
+# I'm Currenlty work 
+
+Pomelo SDK for Elixir Developers - A new way to develop your fintech business 
+![https://github.com/matheuscamarques/pomelo_ex/](https://github.com/matheuscamarques/pomelo_ex/)
+
 # Personal Projects and In-Progress POCs
 
 Certainly, here's the information with the addition of a third project:
