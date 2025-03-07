@@ -6,8 +6,8 @@ I'm a software engineer with a technical background in Computer Science and Logi
 
 # I'm Currenlty work 
 
-Pomelo SDK for Elixir Developers - A new way to develop your fintech business 
-![https://github.com/matheuscamarques/pomelo_ex/](https://github.com/matheuscamarques/pomelo_ex/)
+Modular Banking Tutorial
+[![https://github.com/matheuscamarques/pomelo_ex/](https://github.com/matheuscamarques/pomelo_ex/)](https://github.com/matheuscamarques/modular_banking)
 
 # Personal Projects and In-Progress POCs
 
