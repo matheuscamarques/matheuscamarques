@@ -64,7 +64,7 @@ A modularized banking solution in Elixir, showcasing context separation, DDD pat
 
 ## 📈 Advanced Metrics
 
-![Metrics](https://github.com/matheuscamarques/matheuscamarques/blob/generated/metrics.svg)
+![Metrics](/github-metrics.svg)
 
 ---
 
