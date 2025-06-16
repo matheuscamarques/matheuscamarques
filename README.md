@@ -62,6 +62,12 @@ A modularized banking solution in Elixir, showcasing context separation, DDD pat
 
 ---
 
+## 📈 Advanced Metrics
+
+![Metrics](https://github.com/matheuscamarques/matheuscamarques/blob/generated/metrics.svg)
+
+---
+
 ## 🌐 Interests
 
 - Distributed Systems & Concurrency
@@ -75,7 +81,7 @@ A modularized banking solution in Elixir, showcasing context separation, DDD pat
 
 ## 🤝 I'm Open To
 
-- Remote Full-Stacks or Backend Roles (Elixir/Erlang or PHP preferred)
+- Remote Full-Stack or Backend Roles (Elixir/Erlang or PHP preferred)
 - Mentoring Junior Developers
 - Contributing to OSS & Writing Technical Articles
 - Building developer tools or distributed applications
