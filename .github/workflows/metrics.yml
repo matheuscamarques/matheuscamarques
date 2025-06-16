@@ -17,7 +17,7 @@ jobs:
           user: matheuscamarques
 
           output_action: commit
-          committer_branch: generated
+          committer_branch: main
 
           base: header, activity, community, repositories
           config_timezone: America/Sao_Paulo
