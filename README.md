@@ -64,7 +64,7 @@ A modularized banking solution in Elixir, showcasing context separation, DDD pat
 
 ## 📈 Advanced Metrics
 
-![Metrics](/github-metrics.svg)
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 ---
 
