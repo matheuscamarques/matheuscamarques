@@ -6,6 +6,10 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Necessário para commitar no repo
+    env:
+      ACTIONS_STEP_DEBUG: true  # Ativa debug detalhado nos passos da Action
     steps:
       - uses: lowlighter/metrics@latest
         with:
