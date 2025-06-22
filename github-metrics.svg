@@ -2717,9 +2717,9 @@ Desenvolvedor Elixir e Erlang, tech old school em telecom</div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.09154145798553144 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.09151599443671767 329"/>
                                     <text x="60" y="50" dominant-baseline="central">1</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3594</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3595</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -2737,7 +2737,7 @@ Desenvolvedor Elixir e Erlang, tech old school em telecom</div>
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0 329"/>
                                     <text x="60" y="50" dominant-baseline="central">0</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1866</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1867</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
@@ -2807,9 +2807,9 @@ Key changes:
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">06cd0480</span>
-                            <span class="code">lib/snooker_game_ex/spatial_hashing_ets.ex</span>
+                            <span class="code">lib/snooker_game_ex_web/router.ex</span>
                             <span class="code">
-                                <span class="snippet additions">++1</span>
+                                <span class="snippet additions">++2</span>
                                 <span class="snippet deletions">--1</span>
                             </span>
                         </div>
@@ -2818,7 +2818,7 @@ Key changes:
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -65,7 +65,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">Converts world coordinates to grid cell coordinates.<br /></span><span class="token prefix unchanged">·</span><span class="token line">"""<br /></span><span class="token prefix unchanged">·</span><span class="token line">@spec to_cell_coords({x :: float(), y :: float()}, cell_size :: pos_integer()) :: cell_key<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">defp to_cell_coords({x, y}, cell_size) do<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">def to_cell_coords({x, y}, cell_size) do<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  {div(floor(x), cell_size), div(floor(y), cell_size)}<br /></span><span class="token prefix unchanged">·</span><span class="token line">end<br /></span><span class="token prefix unchanged">·</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -18,7 +18,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  pipe_through :browser<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">  # get "/", PageController, :home<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  live "/", SnookerGameLive<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  # live "/", SnookerGameLive<br /></span><span class="token prefix inserted">+</span><span class="token line">  live "/room/:game_id", SnookerGameLive, :show<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">end<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line"># Other scopes may use custom stacks.</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -2833,14 +2833,14 @@ Key changes:
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #2A56FB">Your fortune: Better not tell you now</b>
+                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jun 2025, 17:15:07 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Jun 2025, 18:12:57 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
