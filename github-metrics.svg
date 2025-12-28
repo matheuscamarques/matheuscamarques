@@ -2961,9 +2961,9 @@ Desenvolvedor Elixir e Erlang, tech old school em telecom</div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.08687615526802218 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.0867844895805856 329"/>
                                     <text x="60" y="50" dominant-baseline="central">1</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3787</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3791</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -2981,7 +2981,7 @@ Desenvolvedor Elixir e Erlang, tech old school em telecom</div>
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0 329"/>
                                     <text x="60" y="50" dominant-baseline="central">0</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1974</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1977</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
@@ -2990,7 +2990,7 @@ Desenvolvedor Elixir e Erlang, tech old school em telecom</div>
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0 329"/>
                                     <text x="60" y="50" dominant-baseline="central">0</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/895</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/896</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -3033,7 +3033,7 @@ Desenvolvedor Elixir e Erlang, tech old school em telecom</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Dec 2025, 00:43:02 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Dec 2025, 01:40:12 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
