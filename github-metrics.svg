@@ -23,27 +23,27 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 112 users
+                            Followed by 113 users
                         </div>
                     </section>
                     <section>
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -390,7 +390,7 @@ Desenvolvedor Elixir e Erlang, tech old school em telecom</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 4 days
+                            Current streak 5 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -414,7 +414,7 @@ Desenvolvedor Elixir e Erlang, tech old school em telecom</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~1.45
+                            Average per day at ~1.49
                         </div>
                     </section>
                 </div>
@@ -2360,9 +2360,14 @@ Desenvolvedor Elixir e Erlang, tech old school em telecom</div>
                         </g>
                         <g transform="translate(88.39999999999999, 52)">
                             <g transform="translate(0, 5.294117647058823)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.7058823529411766 0,1.7058823529411764 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.7058823529411764 1.7,2.7058823529411766 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 4.352941176470589)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.7058823529411766 0,1.7058823529411764 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.7058823529411764 1.7,2.7058823529411766 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.647058823529411 0,3.6470588235294117 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.6470588235294117 1.7,4.647058823529411 z"/>
                             </g>
                         </g>
                     </g>
@@ -2485,7 +2490,8 @@ Desenvolvedor Elixir e Erlang, tech old school em telecom</div>
                                     <rect class="day" x="0" y="94" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                                 <g transform="translate(180, 0)">
-                                    <rect class="day" x="0" y="4" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="4" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -2497,10 +2503,11 @@ Desenvolvedor Elixir e Erlang, tech old school em telecom</div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    112 followers
+                    113 followers
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCBwgF/8QAKxAAAgEDAgMGBwAAAAAAAAAAAQMCAAQRBSEGEjEHExQiQVFCUmFxkaHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAbEQACAwEBAQAAAAAAAAAAAAAAAwECEhEhIv/aAAwDAQACEQMRAD8AzVJQZgbCZ2FG22nQQea6jODQcxDNs/YUFZqbeXykJwJyO2a0ta6mm40xtvf8NPuPBqBjlcCG9BgZ9d6DL4KqXsz1cX3m7kACecZNDsgpcyMzmepOepp17UbAvYrU0aYvS0BXmRCIHxgA7Abnn/VV2t/l61ZbNR6SYvE8I27ZodB6ZGDFkGMh6Grx0zjUXmk2JdqCrKS4jIYcd4P6Mj0qnDESt2RI2jDb80x8GN8Rp703EFtWmYmsTGeQnGcUGrjg0Nms+BHafq95q7kXM5zFu4ERj0DOTGJ49tzSF3c/lNNXHr5m8REnaKyB9K4ESRCIHtSTX5A+86P/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABwIDBAUIBv/EACkQAAIBBAAFAwQDAAAAAAAAAAEDAgAEBREGBxMhQRIiwSMxYXFRkaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGhEAAwADAQAAAAAAAAAAAAAAAAECAwQSIf/aAAwDAQACEQMRAD8Ao8/xXccKzReWUIMuWJYpfVG4j3rJJH6H+1L5fc2snkM/bWOcVbG3uWBYYqJgVzJ0PPcbqrz6+tIiaoNhBR6USPJI38UngzBwjmbR7MQHTIDY+hoA3vWv7oOpkSxpDtrG6ttGkFCn4ntUSEqfjLtTQJlZmUfeRg1CoMZOXoT0JFnrHnx41RF5P27re6vX5S5gxrj9COzpf8w39t/gfmh9w9IpxNn0+3t+av3xKcC/JIYxV1EGG4zOiP0figy5iuEvB1xVx236HkSpyLO1Djk3mL7L8NulkXyfNV0UxlL7iPpHau+EjTgJ/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcFA//EACoQAAEDAgQFBAMBAAAAAAAAAAECAwQAEQUSITEGBxMUIlFhcYFBQpGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAP/EABsRAAMBAQADAAAAAAAAAAAAAAABAhEhAyJB/9oADAMBAAIRAxEAPwBxhWdUlB0sXdT91E+fmGMScVdmtyZzshsIHTULMsiw20/Jv91acEfS482AoE9U3sNtaJ85uEZuLtR5EBEcG1nbp81e1/Tb+VL3NRvCk+Mj3DUd9WCNKl6ua2JN7i+lakeKO3b0/Wk8fhSazhTCWSHi0ynNpa5tbS++1cImGZojJVdJyC4oaT0cmvhUOFWld+tWYENOKJ01GtrUrnlqY0hkA9M2J+KyJTaMPgy+2SElbS1lR3veoy1zA4hj8aSIAloXEDiG0tuNghI8dqfLx4TxPrpXpLXVQQ0nwBJA9RkNv9NEHmUsuFJUM25+aTYhiL8aGtTIQlWU65fagvcOOuurWfIrJNFYcH//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbG7F7/0TucCD99/FbFjxJ+xNLBH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8SOEQ+T2LFH7BjxMIkde8QOqCB2QAWxAyqIHVBB7IAKYgdUEDuggtgBFcQOqCB2QAWxAyqIHVBB7IAKYgdUEDuggtgBFcQOqCB2QAWxAyqIHVBB7IAKYgdUEDuggtgBFcQOqCB2QAWxAyqIHVBB7IAKYgdUEDuggtgBFcQOqCB2wNfgb4ATcObDHIZLAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
@@ -2510,7 +2517,6 @@ Desenvolvedor Elixir e Erlang, tech old school em telecom</div>
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBwgE/8QAMRAAAQMCAwYEBAcAAAAAAAAAAQIDBAURABIhBhMxQVFxByJhsRQjUqFigZGSwdHh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQAAv/EABwRAAICAwEBAAAAAAAAAAAAAAABAhEDEiExUf/aAAwDAQACEQMRAD8A0nNmr36mGkrQEi6nCPsP7wk7eViTRNnZNTSG5GoAadbzAA8yb4Ntym9xJJBbAct5lX0IB5+h+2AG2bLFf2YqETeoCFuhCVA3BIHO3K/tgFNPItvBGmlwQNjfGXPUEIrTaEKccyJLaNADxWevb34YvtNZYt5kOX/AnMP1xlNfhzMp1DdqEp0Ce1IQthgEEOtZ7fvJI06X/K5qNT6quiU1btRaZWYyLoeJzDS38e+KM8oKO8PtBpdph3aqBLap/wARHeXkSVqfvxyG3C/Pp/mIIzTEuGsSHymWkfM3ibFPrk6an01w51EBunu2AOVQAuL8xr3xXdYUXNto0NRsy3GBTbiDnTr3xHmjT4PCXKJYbLLru/ZkNOxopKHFDTObG+un1gd7YNU8icH3VsLIDpQnUo0AF9O98ccaKyw1PyIBS2px4JVqCrqcMbLSWo7IbukKQFHXiccrhm7P/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwUGBAj/xAAuEAABAwMDAAgGAwAAAAAAAAABAgMEAAURBhIhBxMVMUFRYYEUFiI0cdGRssH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAAP/xAAdEQACAgIDAQAAAAAAAAAAAAABAgARAwQSITFx/9oADAMBAAIRAxEAPwC3pPTrQaQVpFTZeoJqbzLTBTbEW6E6tlxuTvDruw7CQQcJ5GBwf8reWja0wMkAAZJNE0+bAkaguphMuvNB5za6loLC1EgnnnIyTiiZ2ZVtYvVRWamipLs8ebAbkMp+h1sODI5wRmjy56eSmYsbaWNMXCHc9OQHoTyHWuoQOMZBx3EeB9KiXRhPxq+K3+w596gz0gaokSJLFsbeLcQNAupScdYT5/gY/mrfQsyl75jawFut25yQwlROA4O4496IL7JdduEhS1ZO8f0pB6JJr7LtzdbXhfZL4z7j9CmhUbFREHydclgzh09fJVgnNTIrxBBG5IPDgz3HzpeuF3ZdkdYjC0KSClXmK883N1YcjpB4P6rbQZz3ZkDkfbo8PSrZQUDLXc2Z/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAYFB//EACwQAAEDAwMCBAYDAAAAAAAAAAECAwQAERIFEyEGMRUiQVEHMjNDYaFxksH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgME/8QAHREAAQQDAQEAAAAAAAAAAAAAAQACAxESITEEYf/aAAwDAQACEQMRAD8A20/ELRGX7h0FF7ZA5gf5Ttb1ZrqbQJcPTZIQ64mzagCObji9RzunwFOjc6QcbW4ft7Iv/VVNiS4ejO7nhUjTI5bspTgBF73vwT7VpZkXUdrHYAvio4ExuFBjMPTHDIabQ25jc3Nu/a9OVPTf67n7qF3Ysue+8WNXXhghLsVjMD1see/NPG5byyeqUj28MKv3jTOkxNUlx+p22Ljy9vxWb1JEMyE21kuxdQg/wTY1ULSMDx6GsLXFr2o6ULLebnKkgX+b81AylvFYeQX1ZvQat2JJ3jmUyCgkAgEgCuhQdShQmA1KhqdcJyz3O4NRmjx2kwm1tpwLhUtQTwCb0veX70MkJG0TQU7S/9k=" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQFBgj/xAAsEAABAwIFAwMDBQAAAAAAAAABAgMEBREABhIhMQcTFCJBgSRhkVFScaHB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQBAwX/xAAhEQACAQQBBQEAAAAAAAAAAAABAgADBBESIRMjJEGhYf/aAAwDAQACEQMRAD8A6BTgRzn1bqcHMU1jLdEXOYZ+nLzqSUFSFrCygJ3I9vjDFWpS4NHmymW+45HYccS3a+sgEgYB8nvS6e4uO5G8gBruAp2WTfe99rE3wlVqaDOMxmnS6rAZxNX0s6uM5slGmViO3CqhJ7QbvocABJG/BAHzi0qtdphlnxlNEAAK0J2v+f4xTQKMajn2iVNcFuMIsR512xC7rWiyBcckbn7WxhVTtcyYlqy0tPFvVbmyRgk767DiZ98zW7aHmMeauoVDpVDmux5jU2W2yspYaJOs29z7YHMmGY8ZanmJq5DiQ2l5krtsBbe9gLc3vbGiz7RY0vNC+6pwa0+rTYX2H2xH6fU1NQpizIkyQwmUG1MIUAhxOnhW1z+cHc0gyDT7Gbeuyud/kXcsAPUQTFtjyFJWNWx9F9rH9CAD84N28tuxZc9SmNIkSFPp25BA3/rF/GzBOj5iFPbLXiuNIugo454xPngFbV/2f6cQfGpgL7lF0BdMC/7P/9k=" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -2614,14 +2620,14 @@ Desenvolvedor Elixir e Erlang, tech old school em telecom</div>
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #2A56FB">Your fortune: Better not tell you now</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Mar 2026, 20:26:58 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Mar 2026, 22:27:07 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
