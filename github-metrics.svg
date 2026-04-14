@@ -2606,9 +2606,9 @@ Desenvolvedor Elixir e Erlang, tech old school em telecom</div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.08433734939759036 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.08431573552024603 329"/>
                                     <text x="60" y="50" dominant-baseline="central">1</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3901</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3902</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -2626,7 +2626,7 @@ Desenvolvedor Elixir e Erlang, tech old school em telecom</div>
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0 329"/>
                                     <text x="60" y="50" dominant-baseline="central">0</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2041</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2042</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
@@ -2671,14 +2671,14 @@ Desenvolvedor Elixir e Erlang, tech old school em telecom</div>
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Apr 2026, 19:40:04 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Apr 2026, 20:37:58 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
