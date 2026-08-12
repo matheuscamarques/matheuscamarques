@@ -7,7 +7,7 @@ I'm passionate about **Software Architecture**, **Design Patterns**, **Distribut
 
 ## 🤝 I'm Open To
 
-- Remote Full-Stack or Backend Roles (Elixir/Erlang or PHP preferred)
+- Remote Full-Stack or Backend Roles (Elixir/Erlang or PHP preferred or Java)
 - Mentoring Junior Developers
 - Contributing to OSS & Writing Technical Articles
 - Building developer tools or distributed applications
