@@ -1,8 +1,8 @@
 # Hello, I'm @matheuscamarques 👋
 
-My name is **Matheus de Camargo Marques**. I'm a **Software Engineer** with a background in **Computer Science** and **Logistics**, currently pursuing a degree in **Computer Engineering**.
+My name is **Matheus de Camargo Marques**. I'm a **Software Engineer** with a background in **Computer Science** and **Logistics**.
 
-I'm passionate about **Software Architecture**, **Design Patterns**, **Distributed Systems**, and **Fault-Tolerant Microservices**. I specialize in **Elixir**, **Erlang**, and **high-performance systems**, and I’m always chasing the balance between elegant code and practical delivery.
+I'm passionate about **Low-Level Plataform**, **Software Architecture**, **Design Patterns**, **Distributed Systems**, and **Fault-Tolerant Microservices**. I specialize in **Elixir**, **Erlang**, and **high-performance systems**, and I’m always chasing the balance between elegant code and practical delivery.
 
 
 ## 🤝 I'm Open To
